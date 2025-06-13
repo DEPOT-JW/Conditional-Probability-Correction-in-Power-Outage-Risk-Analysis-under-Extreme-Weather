@@ -9,6 +9,6 @@ The code **only supports execution on Windows platforms** using Python 3.8, Pyth
 **Example setup:**  
 ```bash
 conda create -n SMC_python311 python=3.11  
-conda activate SMC_python311  
+activate SMC_python311  
 pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
 ```
