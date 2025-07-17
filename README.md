@@ -1,6 +1,6 @@
 # Conditional-Probability-Correction-in-Power-Outage-Risk-Analysis-under-Extreme-Weather
 
-This repository provides the code implementation for the paper **"Bias in sequential Monte Carlo simulation for power outage risk analysis under extreme weather: A perspective based on conditional probability"**, including implementations for the two test systems (System#1 and System#2) featured in the paper. Details of the paper and citation format will be provided later.
+This repository provides the code implementation for the paper **"Why Shorter Time Steps Induce the Failure Probability Curse in Power Outage Risk Analysis: An Explanation and Solution"**, including implementations for the two test systems (System#1 and System#2) featured in the paper. Details of the paper and citation format will be provided later.
 
 Under normal circumstances, after configuring Python, Jupyter Notebook, and the required third-party libraries, you can directly execute `main.ipynb` to obtain the simulation results. Result files are saved in the `SolutionFolder` directory. `main.ipynb` contains visualization code (recommended to run this notebook using VS Code, Jupyter Notebook, or Jupyter Lab) and will directly display the expected outage curve images.
 
